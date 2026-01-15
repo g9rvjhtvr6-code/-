@@ -1,5 +1,17 @@
 {
-  "version": "1.0",
-  "url": "https://www.icloud.com/shortcuts/a9bb689190904f8ab4f19b43e96f3591",
-  "note": "อัปเดตระบบดาวน์โหลดให้ดีขึ้น"
+  "version": "3.5",
+  "url": "https://chrunos.com/download-youtube-shorts/#youtube+shorts+downloader",
+  "api": "https://vercel-gules-seven.vercel.app/",
+  "watch": [
+    "https://invidious.nerdvpn.de",
+    "https://invidious.jing.rocks/",
+    "https://yewtu.be/"    
+  ],
+  "task1": "https://p.savenow.to/ajax/download.php?button=1&start=1&end=1&format=",
+  "task2": "&iframe_source=https://chrunos.com,&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
+  "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
+  "notes": "Fix error and add audio downloading options",
+  "release": "December 22, 2025",
+  "pipe": "https://inv.clovius.club/api/v1/videos/",
+  "maxs": "https://cody1234-messy.hf.space/multi"
 }
