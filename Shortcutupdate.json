@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
+  "version": "3.5",
   "url": "https://www.icloud.com/shortcuts/095a4fde7adf46fd849ff0262f0bb2dd",
   "api": "https://vercel-gules-seven.vercel.app/",
   "watch": [
@@ -10,7 +10,7 @@
   "task1": "https://p.savenow.to/ajax/download.php?button=1&start=1&end=1&format=",
   "task2": "&iframe_source=https://chrunos.com,&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
   "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
-  "notes": "Fix error and add audio downloading options",
+  "notes": "อัพเดทเวอร์ชั่นเพื่อให้ใช้งานต่อได้ในรุ่นใหม่ๆ",
   "release": "December 22, 2025",
   "pipe": "https://inv.clovius.club/api/v1/videos/",
   "maxs": "https://cody1234-messy.hf.space/multi"
